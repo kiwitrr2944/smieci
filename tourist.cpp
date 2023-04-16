@@ -9,6 +9,8 @@
 #define int long long
 using namespace std;
 
+//dopisujemy sobie cokolwiek
+
 constexpr int INF = 4e5+7;
 bool DEBUG = false;
 typedef pair<int, int> pii; 
